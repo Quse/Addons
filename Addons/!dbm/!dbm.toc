@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: !dbm
+## Notes: DBM style. Credits to Wildbreath and Haleth
+## Author: Wildbreath, Haleth
+## RequiredDeps: DBM-Core
+DBT-Template.xml
+dbm.lua
