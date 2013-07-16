@@ -1,6 +1,0 @@
-## Interface: 50001
-## Title: !QuseWigs
-## Notes: BigWigs Style. Credits to nin! 
-## Author: nin/Qupe
-## RequiredDeps: BigWigs_Core
-wigs.lua
