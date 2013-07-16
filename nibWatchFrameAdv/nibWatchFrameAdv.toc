@@ -1,0 +1,10 @@
+## Interface: 50200
+## Title: |cffbf3030nib|r|cffffffffWatchFrameAdv|r
+## Author: Nibelheim
+## Notes: Adjust Position, Colors, Stylize and Auto-hide the Quest Watch Frame
+## Version: 2.2
+
+## X-WoWI-ID: 19526
+
+Config.lua
+Core.lua

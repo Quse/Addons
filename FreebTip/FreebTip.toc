@@ -1,0 +1,16 @@
+## Interface: 50001
+
+## Title: FreebTip/Tipachu
+## Notes: Custom GameTooltip
+
+## Version: 2.2.2
+
+## Author: Freebaser/Tuller
+
+## OptionalDeps: IDCard
+
+tip.lua
+anchor.lua
+FreebTip_Multi.xml
+
+tipachu.lua

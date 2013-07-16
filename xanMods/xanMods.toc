@@ -1,0 +1,19 @@
+## Interface: 50001
+## Title: xanMods
+## Notes: Xruptor's xanErrorDevourer, AutoMail, AchievementMover and LootRollMover in one folder.
+## Author: Xruptor
+## Version: 1.5
+## SavedVariables: xErrD_DB, xErrD_CDB, xanAutoMailDB, LRMDB,  XanAM_DB
+
+localization\localization.lua
+
+
+xanAchievementMover.lua
+
+LootRollMover.lua
+libs\LibStub\LibStub.lua
+libs\AceHook-3.0\AceHook-3.0.lua
+xanAutoMail.lua
+errorList.lua
+xanErrorDevourer.lua
+

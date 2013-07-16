@@ -1,0 +1,9 @@
+## Interface: 50001
+## Title: |cffCC3333Quse|rTweaks|r
+## Version: 5.8
+## Author: Quse, Haleth, Suicidalkatt, Weasoug, Meeka
+## Notes: Interface Tweaks and Slash Commands
+
+
+slashcommands.lua
+tweaks.lua

@@ -1,0 +1,9 @@
+﻿## Interface: 50001
+
+## Title: Qu|cffffffffLoot|r
+
+## Version: 2.2
+
+## Notes: Loot/Loot roll replacement by Qulight
+Loot.lua
+LootRoll.lua

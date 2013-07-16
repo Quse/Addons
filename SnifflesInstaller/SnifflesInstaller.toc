@@ -1,0 +1,7 @@
+## Interface: 40300
+## Author: Sniffles
+## Title: SnifflesInstaller
+## Notes: Chose your profiles via LUA
+## SavedVariables: meekaI_Names
+
+addon.lua

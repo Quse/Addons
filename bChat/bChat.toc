@@ -1,0 +1,5 @@
+## Interface: 50001
+## Title: |cff3399FFb|rChat
+## DefaultState: Enabled
+## LoadOnDemand: 0
+bChat.lua

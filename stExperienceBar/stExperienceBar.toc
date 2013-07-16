@@ -1,0 +1,18 @@
+## Interface: 50001
+
+## Author: Safturento
+
+## Version: 3.2
+
+## Title: |cffe76a6ast|rExperienceBar
+
+## Notes: Minimalist experience & reputation bar
+
+## RequiredDeps: 
+
+## OptionalDeps: Tukui
+
+Config.lua
+
+global.lua
+player.lua

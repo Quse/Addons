@@ -1,0 +1,7 @@
+## Interface: 50001## X-Curse-Packaged-Version: r173
+## X-Curse-Project-Name: SharedMedia## X-Curse-Project-ID: sharedmedia## X-Curse-Repository-ID: @repository-id@
+## Title: SharedMedia
+## Notes: Inserts some media into LibSharedMedia's storage.
+## Version: 3.0
+## Author: Lots of people.
+## X-Category: Miscellaneous## OptionalDeps: LibSharedMedia-3.0, LibSharedMedia-2.0, SharedMediaLib, SurfaceLibLibs\LibStub.luaCore.luaSharedMedia.luaMyMedia.lua

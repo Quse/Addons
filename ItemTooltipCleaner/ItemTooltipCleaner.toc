@@ -1,0 +1,35 @@
+## Interface: 50001
+## Version: 5.0.4.37
+
+## Title: Item Tooltip Cleaner
+## Notes: Compacts equipment bonus text and removes extraneous lines from item tooltips.
+## Notes-deDE: Beschreibungen von Boni in Ausrüstungs-Tooltips verkürzen, und überflüssigen Text ausblenden.
+## Notes-esES: Acortar en los descripciones de objetos el texto de bonos equipos y eliminar textos superfluo.
+## Notes-esMX: Acortar en los descripciones de objetos el texto de bonos equipos y eliminar textos superfluo.
+## Notes-ptBR: Encurtar nas dicas de itens o texto de bônus em equipamentos e remover o texto supérfluo.
+## Notes-ruRU: Сократить преимущества предметов во всплывающих подсказках, и удалять чрезмерное текст.
+## Notes-zhCN: 简化装备属性文本并从装备提示信息中移除多余的行.
+
+## Author: Phanx
+## X-Email: addons@phanx.net
+## X-Credits: Originally written by Akkorian. Inspired by dlemvigh's PhoenixTooltip.
+## X-Copyright: Copyright (c) 2010-2012 Akkorian, Phanx. All rights reserved.
+## X-License: See accompanying LICENSE file for details.
+## X-CompatibleLocales: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ruRU, zhCN, zhTW
+## X-Localizations: enUS, deDE, esES, esMX, ptBR, ruRU, zhCN
+## X-Website: http://www.wowinterface.com/downloads/info19129-ItemTooltipCleaner.html
+## X-Curse-Project-ID: itemtooltipcleaner
+## X-WoWI-ID: 19129
+
+## SavedVariables: ItemTooltipCleanerSettings
+
+Libs\LibStub\LibStub.lua
+Libs\LibAboutPanel\LibAboutPanel.lua
+Libs\PhanxConfig-Checkbox\PhanxConfig-Checkbox.lua
+Libs\PhanxConfig-ColorPicker\PhanxConfig-ColorPicker.lua
+Libs\PhanxConfig-Header\PhanxConfig-Header.lua
+Libs\PhanxConfig-OptionsPanel\PhanxConfig-OptionsPanel.lua
+
+localization.lua
+addon.lua
+options.lua

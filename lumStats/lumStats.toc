@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: |cFF0d87d5l|r|cFF85419cu|r|cFFf20269m|rStats
+## Version: 0.1
+## Notes: Text Stats/Panels
+## Author: greven
+
+lumStats.lua
+lumDrops.lua

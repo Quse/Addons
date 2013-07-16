@@ -1,0 +1,7 @@
+## Interface: 40000
+## Version: 1.0
+## Title: BubbleBobble
+## Notes: Custom chat bubbles
+## Author: Hank
+
+BubbleBobble.lua

@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: |cffCC3333Raid|rCD|r
+## Notes: Raid cooldown tracker based on alRaidCD
+## Author: Allez, Shetstak, Qupe
+## Version: 1
+
+RaidCD.lua

@@ -1,0 +1,8 @@
+## Interface: 50001
+## Title: |cffCC3333Quse|rMap|r
+## Notes: Fancy-pants Minimap Replacement! PicoMenu by Neal
+## Author: Qupe
+## Version: 1
+
+QuseMap.lua
+picomenu.lua
